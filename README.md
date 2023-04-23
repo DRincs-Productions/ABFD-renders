@@ -14,6 +14,8 @@
 Dorante edits with Photoshop the advanced filter must be enabled    
 ![image](https://user-images.githubusercontent.com/67595890/233845749-5ef7c239-26b9-482e-8770-d4086f00b501.png)
 
+### Hair Fix
+![image](https://user-images.githubusercontent.com/67595890/233846824-ca433158-ee9f-445f-a434-77e391f4b8dc.png)
 
 
 ## Conversion
