@@ -1,3 +1,6 @@
 [submodule "skaters/LFS00"]
 	path = skaters/LFS00
 	url = https://github.com/giuliotiglio346467367/skaters-lfs
+[submodule "routine_mc_home/LFS00"]
+	path = routine_mc_home/LFS00
+	url = https://github.com/ringostrar3345345/routine_mc_home-lfs
